@@ -14,6 +14,7 @@ The entities for this database include:
 - Trash
 - Email Group
 - Spam
+- DeletedEmail
 
 ### Design and Development Process
 - Mock up of the Database consisting of the entities and their respective attributes
