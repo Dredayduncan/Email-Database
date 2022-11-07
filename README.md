@@ -17,7 +17,8 @@ The entities for this database include:
 - DeletedEmail
 
 ### Design and Development Process
-- Mock up of the Database consisting of the entities and their respective attributes
+---
+- Mock up of the Database consisting of the entities and their respective attributes (EmailDBSketch.pdf)
 - Design the ER (Entity Relationship) diagram to further detail the relationships between entities in the DB
 - Design the EER (Extended Entity Relationship) diagram to detail the multiplicities consisted in the relationships
 - Develop the database with MySQL
