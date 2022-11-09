@@ -19,6 +19,7 @@ The entities for this database include:
 ### Design and Development Process
 ---
 - Mock up of the Database consisting of the entities and their respective attributes (EmailDBSketch.pdf)
-- Design the ER (Entity Relationship) diagram to further detail the relationships between entities in the DB
+- Detail the relationships between the entities (Database Relationships.pdf)
+- Represent the relationships with an ER (Entity Relationship) diagram to further detail the relationships between entities in the DB
 - Design the EER (Extended Entity Relationship) diagram to detail the multiplicities consisted in the relationships
 - Develop the database with MySQL
