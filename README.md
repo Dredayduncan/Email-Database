@@ -1,6 +1,7 @@
 # Email Database
----
+
 ### Description
+---
 This database is designed and developed for an email management system. It is developed to mimic the database of some of the most popular email databases out there including Gmail and Outlook. It is also the foundation for the future development of APIs for an email management. The APIs will have access to and be developed to interact with this database on every level.
 
 ### Entities
